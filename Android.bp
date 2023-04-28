@@ -53,6 +53,8 @@ cc_library_shared {
         "liblhdcv5",
     ],
 
+    allow_undefined_symbols: true,
+
     apex_available: [
         "//apex_available:platform",
         "com.android.btservices",
