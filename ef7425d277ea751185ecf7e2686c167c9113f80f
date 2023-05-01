@@ -16,6 +16,24 @@
       "message": "link against the proprietary libs then",
       "revId": "ef7425d277ea751185ecf7e2686c167c9113f80f",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23062704_107ae236",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000047
+      },
+      "writtenOn": "2023-05-01T12:26:02Z",
+      "side": 1,
+      "message": "It already calls for them, check line 53",
+      "parentUuid": "a5a8f568_90725eaa",
+      "revId": "ef7425d277ea751185ecf7e2686c167c9113f80f",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
